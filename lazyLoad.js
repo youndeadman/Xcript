@@ -4,7 +4,7 @@
  */
 (function(){
   var itools={}
-  itools.addListener=function(e,type,fn,scope){
+  itools.addListener=function(e,type,fn,scope){ 
     if(scope){var func=function(){fn.call(scope);}}
     if(e.addEventListener){
       e.addEventListener(type,func,false);
