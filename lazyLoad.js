@@ -1,7 +1,6 @@
 /**
  *  @author XC
  *  @version Xcript.ifeng.lazyLoad0.1
- *  test
  */
 (function () {
   var itools = {}
