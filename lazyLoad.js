@@ -3,7 +3,7 @@
  *  @version Xcript.ifeng.lazyLoad0.1
  */
 (function () {
-  var itools = {}
+  var itoolss = {}
   itools.addListener = function (e, type, fn, scope) {
     if (scope) {
       var func = function () {
