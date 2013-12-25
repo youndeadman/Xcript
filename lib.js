@@ -1,4 +1,7 @@
-//a file of library
+/**
+ * a file of library
+ * based on jquery
+ */
 
 //plugin of disable select
 (function($){
